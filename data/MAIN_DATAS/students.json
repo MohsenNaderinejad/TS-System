@@ -1,0 +1,717 @@
+[
+    {
+        "AGE": 29,
+        "EMAIL": "M@M.com",
+        "EXAM_LIST": [
+            {
+                "EXAM_GUC": 3,
+                "FFQs": [
+                    {
+                        "ANSWER_STATUS": -1,
+                        "FACE": "Hi my name is luffy?",
+                        "FFQID": 3,
+                        "ORIGINAL_ANSWER_STATUS": -1,
+                        "STUDENT_ANSWER": "You do not know your name ???!",
+                        "TEACHER_SCORE": 0.0
+                    },
+                    {
+                        "ANSWER_STATUS": 2,
+                        "FACE": "Can we kill you tonight?",
+                        "FFQID": 4,
+                        "ORIGINAL_ANSWER_STATUS": -2,
+                        "STUDENT_ANSWER": "",
+                        "TEACHER_SCORE": 40.0
+                    }
+                ],
+                "MCQs": [
+                    {
+                        "ANSWER_STATUS": 1,
+                        "CORRECT_ANSWER": {
+                            "CHOICE_FACE": "2025",
+                            "CHOICE_NUMBER": 4
+                        },
+                        "FACE": "what year is it?",
+                        "MCQID": 3,
+                        "SCORE": 20.0,
+                        "STUDENT_ANSWER": {
+                            "CHOICE_FACE": "2025",
+                            "CHOICE_NUMBER": 4
+                        }
+                    },
+                    {
+                        "ANSWER_STATUS": 0,
+                        "CORRECT_ANSWER": {
+                            "CHOICE_FACE": "Python",
+                            "CHOICE_NUMBER": 4
+                        },
+                        "FACE": "This is Edited",
+                        "MCQID": 4,
+                        "SCORE": -6.0,
+                        "STUDENT_ANSWER": {
+                            "CHOICE_FACE": "19",
+                            "CHOICE_NUMBER": 2
+                        }
+                    },
+                    {
+                        "ANSWER_STATUS": -2,
+                        "CORRECT_ANSWER": {
+                            "CHOICE_FACE": "n",
+                            "CHOICE_NUMBER": 2
+                        },
+                        "FACE": "a",
+                        "MCQID": 5,
+                        "SCORE": 0.0,
+                        "STUDENT_ANSWER": {
+                            "CHOICE_FACE": "",
+                            "CHOICE_NUMBER": -1
+                        }
+                    }
+                ],
+                "PARTICIPATION_STATUS": 1,
+                "SCORE": 94.0,
+                "SFQs": [
+                    {
+                        "ANSWER_STATUS": 1,
+                        "CORRECT_ANSWER": "mohsen",
+                        "FACE": "who am i?",
+                        "SCORE": 50.0,
+                        "SFQID": 1,
+                        "STUDENT_ANSWER": "mohsen"
+                    },
+                    {
+                        "ANSWER_STATUS": 0,
+                        "CORRECT_ANSWER": "AP",
+                        "FACE": "what is  this course?",
+                        "SCORE": -10.0,
+                        "SFQID": 2,
+                        "STUDENT_ANSWER": "pl"
+                    }
+                ]
+            },
+            {
+                "EXAM_GUC": 4,
+                "FFQs": [
+                    {
+                        "ANSWER_STATUS": -1,
+                        "FACE": "What is your opinion about this program",
+                        "FFQID": 1,
+                        "ORIGINAL_ANSWER_STATUS": -1,
+                        "STUDENT_ANSWER": "HEHEHEHEHEHEHEHEHEHE",
+                        "TEACHER_SCORE": 0.0
+                    },
+                    {
+                        "ANSWER_STATUS": 2,
+                        "FACE": "why is gmora?",
+                        "FFQID": 2,
+                        "ORIGINAL_ANSWER_STATUS": -2,
+                        "STUDENT_ANSWER": "",
+                        "TEACHER_SCORE": 20.0
+                    }
+                ],
+                "MCQs": [
+                    {
+                        "ANSWER_STATUS": -2,
+                        "CORRECT_ANSWER": {
+                            "CHOICE_FACE": "D",
+                            "CHOICE_NUMBER": 2
+                        },
+                        "FACE": "Test",
+                        "MCQID": 2,
+                        "SCORE": 0.0,
+                        "STUDENT_ANSWER": {
+                            "CHOICE_FACE": "",
+                            "CHOICE_NUMBER": -1
+                        }
+                    },
+                    {
+                        "ANSWER_STATUS": 1,
+                        "CORRECT_ANSWER": {
+                            "CHOICE_FACE": "3",
+                            "CHOICE_NUMBER": 3
+                        },
+                        "FACE": "Test",
+                        "MCQID": 3,
+                        "SCORE": 10.0,
+                        "STUDENT_ANSWER": {
+                            "CHOICE_FACE": "3",
+                            "CHOICE_NUMBER": 3
+                        }
+                    }
+                ],
+                "PARTICIPATION_STATUS": 1,
+                "SCORE": -980.0,
+                "SFQs": [
+                    {
+                        "ANSWER_STATUS": -2,
+                        "CORRECT_ANSWER": "4",
+                        "FACE": "what is 2 + 2",
+                        "SCORE": 0.0,
+                        "SFQID": 1,
+                        "STUDENT_ANSWER": ""
+                    },
+                    {
+                        "ANSWER_STATUS": 0,
+                        "CORRECT_ANSWER": "3.14",
+                        "FACE": "what is first three digits of pi?",
+                        "SCORE": -1000.0,
+                        "SFQID": 2,
+                        "STUDENT_ANSWER": "3"
+                    }
+                ]
+            }
+        ],
+        "FOS": "CS",
+        "GENDER": "Male",
+        "ID": "1",
+        "LAST_NAME": "A",
+        "NAME": "A",
+        "PASSWD": "1"
+    },
+    {
+        "AGE": 24,
+        "EMAIL": "mhdi.naderinejad@gmail.com",
+        "EXAM_LIST": [
+            {
+                "EXAM_GUC": 2,
+                "FFQs": [
+                    {
+                        "ANSWER_STATUS": -2,
+                        "FACE": "What Structure?",
+                        "FFQID": 4,
+                        "ORIGINAL_ANSWER_STATUS": -2,
+                        "STUDENT_ANSWER": "",
+                        "TEACHER_SCORE": 0.0
+                    }
+                ],
+                "MCQs": [
+                    {
+                        "ANSWER_STATUS": -2,
+                        "CORRECT_ANSWER": {
+                            "CHOICE_FACE": "Student",
+                            "CHOICE_NUMBER": 3
+                        },
+                        "FACE": "Who Are You?",
+                        "MCQID": 2,
+                        "SCORE": 0.0,
+                        "STUDENT_ANSWER": {
+                            "CHOICE_FACE": "",
+                            "CHOICE_NUMBER": -1
+                        }
+                    },
+                    {
+                        "ANSWER_STATUS": -2,
+                        "CORRECT_ANSWER": {
+                            "CHOICE_FACE": "4",
+                            "CHOICE_NUMBER": 5
+                        },
+                        "FACE": "WHAT MONTH IS IT?",
+                        "MCQID": 3,
+                        "SCORE": 0.0,
+                        "STUDENT_ANSWER": {
+                            "CHOICE_FACE": "",
+                            "CHOICE_NUMBER": -1
+                        }
+                    },
+                    {
+                        "ANSWER_STATUS": -2,
+                        "CORRECT_ANSWER": {
+                            "CHOICE_FACE": "R",
+                            "CHOICE_NUMBER": 1
+                        },
+                        "FACE": "A",
+                        "MCQID": 4,
+                        "SCORE": 0.0,
+                        "STUDENT_ANSWER": {
+                            "CHOICE_FACE": "",
+                            "CHOICE_NUMBER": -1
+                        }
+                    }
+                ],
+                "PARTICIPATION_STATUS": 0,
+                "SCORE": 0.0,
+                "SFQs": [
+                    {
+                        "ANSWER_STATUS": -2,
+                        "CORRECT_ANSWER": "2025",
+                        "FACE": "What Year is it?",
+                        "SCORE": 0.0,
+                        "SFQID": 1,
+                        "STUDENT_ANSWER": ""
+                    }
+                ]
+            },
+            {
+                "EXAM_GUC": 3,
+                "FFQs": [
+                    {
+                        "ANSWER_STATUS": 2,
+                        "FACE": "Hi my name is luffy?",
+                        "FFQID": 3,
+                        "ORIGINAL_ANSWER_STATUS": -1,
+                        "STUDENT_ANSWER": "PLEASE GIVE ME SCORE TO PASS THIS EXAM",
+                        "TEACHER_SCORE": 6.0
+                    },
+                    {
+                        "ANSWER_STATUS": -2,
+                        "FACE": "Can we kill you tonight?",
+                        "FFQID": 4,
+                        "ORIGINAL_ANSWER_STATUS": -2,
+                        "STUDENT_ANSWER": "",
+                        "TEACHER_SCORE": 0.0
+                    }
+                ],
+                "MCQs": [
+                    {
+                        "ANSWER_STATUS": 1,
+                        "CORRECT_ANSWER": {
+                            "CHOICE_FACE": "2025",
+                            "CHOICE_NUMBER": 4
+                        },
+                        "FACE": "what year is it?",
+                        "MCQID": 3,
+                        "SCORE": 20.0,
+                        "STUDENT_ANSWER": {
+                            "CHOICE_FACE": "2025",
+                            "CHOICE_NUMBER": 4
+                        }
+                    },
+                    {
+                        "ANSWER_STATUS": 1,
+                        "CORRECT_ANSWER": {
+                            "CHOICE_FACE": "Python",
+                            "CHOICE_NUMBER": 4
+                        },
+                        "FACE": "This is Edited",
+                        "MCQID": 4,
+                        "SCORE": 10.0,
+                        "STUDENT_ANSWER": {
+                            "CHOICE_FACE": "Python",
+                            "CHOICE_NUMBER": 4
+                        }
+                    },
+                    {
+                        "ANSWER_STATUS": 1,
+                        "CORRECT_ANSWER": {
+                            "CHOICE_FACE": "n",
+                            "CHOICE_NUMBER": 2
+                        },
+                        "FACE": "a",
+                        "MCQID": 5,
+                        "SCORE": 1.0,
+                        "STUDENT_ANSWER": {
+                            "CHOICE_FACE": "n",
+                            "CHOICE_NUMBER": 2
+                        }
+                    }
+                ],
+                "PARTICIPATION_STATUS": 1,
+                "SCORE": 97.0,
+                "SFQs": [
+                    {
+                        "ANSWER_STATUS": 1,
+                        "CORRECT_ANSWER": "mohsen",
+                        "FACE": "who am i?",
+                        "SCORE": 50.0,
+                        "SFQID": 1,
+                        "STUDENT_ANSWER": "mohsen"
+                    },
+                    {
+                        "ANSWER_STATUS": 1,
+                        "CORRECT_ANSWER": "AP",
+                        "FACE": "what is  this course?",
+                        "SCORE": 10.0,
+                        "SFQID": 2,
+                        "STUDENT_ANSWER": "AP"
+                    }
+                ]
+            },
+            {
+                "EXAM_GUC": 4,
+                "FFQs": [
+                    {
+                        "ANSWER_STATUS": -2,
+                        "FACE": "What is your opinion about this program",
+                        "FFQID": 1,
+                        "ORIGINAL_ANSWER_STATUS": -2,
+                        "STUDENT_ANSWER": "",
+                        "TEACHER_SCORE": 0.0
+                    },
+                    {
+                        "ANSWER_STATUS": 2,
+                        "FACE": "why is gmora?",
+                        "FFQID": 2,
+                        "ORIGINAL_ANSWER_STATUS": -1,
+                        "STUDENT_ANSWER": "Tony Stank!",
+                        "TEACHER_SCORE": 1000.0
+                    }
+                ],
+                "MCQs": [
+                    {
+                        "ANSWER_STATUS": 1,
+                        "CORRECT_ANSWER": {
+                            "CHOICE_FACE": "D",
+                            "CHOICE_NUMBER": 2
+                        },
+                        "FACE": "Test",
+                        "MCQID": 2,
+                        "SCORE": 10.0,
+                        "STUDENT_ANSWER": {
+                            "CHOICE_FACE": "D",
+                            "CHOICE_NUMBER": 2
+                        }
+                    },
+                    {
+                        "ANSWER_STATUS": 1,
+                        "CORRECT_ANSWER": {
+                            "CHOICE_FACE": "3",
+                            "CHOICE_NUMBER": 3
+                        },
+                        "FACE": "Test",
+                        "MCQID": 3,
+                        "SCORE": 10.0,
+                        "STUDENT_ANSWER": {
+                            "CHOICE_FACE": "3",
+                            "CHOICE_NUMBER": 3
+                        }
+                    }
+                ],
+                "PARTICIPATION_STATUS": 1,
+                "SCORE": 20.0,
+                "SFQs": [
+                    {
+                        "ANSWER_STATUS": -2,
+                        "CORRECT_ANSWER": "4",
+                        "FACE": "what is 2 + 2",
+                        "SCORE": 0.0,
+                        "SFQID": 1,
+                        "STUDENT_ANSWER": ""
+                    },
+                    {
+                        "ANSWER_STATUS": 0,
+                        "CORRECT_ANSWER": "3.14",
+                        "FACE": "what is first three digits of pi?",
+                        "SCORE": -1000.0,
+                        "SFQID": 2,
+                        "STUDENT_ANSWER": "4"
+                    }
+                ]
+            },
+            {
+                "EXAM_GUC": 6,
+                "FFQs": [],
+                "MCQs": [
+                    {
+                        "ANSWER_STATUS": 1,
+                        "CORRECT_ANSWER": {
+                            "CHOICE_FACE": "Yes",
+                            "CHOICE_NUMBER": 2
+                        },
+                        "FACE": "i am a cow ?",
+                        "MCQID": 1,
+                        "SCORE": 10.0,
+                        "STUDENT_ANSWER": {
+                            "CHOICE_FACE": "Yes",
+                            "CHOICE_NUMBER": 2
+                        }
+                    },
+                    {
+                        "ANSWER_STATUS": 1,
+                        "CORRECT_ANSWER": {
+                            "CHOICE_FACE": "asocknac",
+                            "CHOICE_NUMBER": 6
+                        },
+                        "FACE": "Akl",
+                        "MCQID": 2,
+                        "SCORE": 100.0,
+                        "STUDENT_ANSWER": {
+                            "CHOICE_FACE": "asocknac",
+                            "CHOICE_NUMBER": 6
+                        }
+                    }
+                ],
+                "PARTICIPATION_STATUS": 1,
+                "SCORE": 110.0,
+                "SFQs": []
+            }
+        ],
+        "FOS": "ME",
+        "GENDER": "Male",
+        "ID": "1274816157",
+        "LAST_NAME": "Naderinejad",
+        "NAME": "Mahdi",
+        "PASSWD": "12345678"
+    },
+    {
+        "AGE": 0,
+        "EMAIL": "m@m.com",
+        "EXAM_LIST": [
+            {
+                "EXAM_GUC": 4,
+                "FFQs": [
+                    {
+                        "ANSWER_STATUS": -2,
+                        "FACE": "What is your opinion about this program",
+                        "FFQID": 1,
+                        "ORIGINAL_ANSWER_STATUS": -2,
+                        "STUDENT_ANSWER": "",
+                        "TEACHER_SCORE": 0.0
+                    },
+                    {
+                        "ANSWER_STATUS": -1,
+                        "FACE": "why is gmora?",
+                        "FFQID": 2,
+                        "ORIGINAL_ANSWER_STATUS": -1,
+                        "STUDENT_ANSWER": "I am Ironman",
+                        "TEACHER_SCORE": 0.0
+                    },
+                    {
+                        "ANSWER_STATUS": -2,
+                        "FACE": "Hi",
+                        "FFQID": 3,
+                        "ORIGINAL_ANSWER_STATUS": -2,
+                        "STUDENT_ANSWER": "",
+                        "TEACHER_SCORE": 0.0
+                    }
+                ],
+                "MCQs": [
+                    {
+                        "ANSWER_STATUS": 1,
+                        "CORRECT_ANSWER": {
+                            "CHOICE_FACE": "D",
+                            "CHOICE_NUMBER": 2
+                        },
+                        "FACE": "Test",
+                        "MCQID": 2,
+                        "SCORE": 10.0,
+                        "STUDENT_ANSWER": {
+                            "CHOICE_FACE": "D",
+                            "CHOICE_NUMBER": 2
+                        }
+                    },
+                    {
+                        "ANSWER_STATUS": 1,
+                        "CORRECT_ANSWER": {
+                            "CHOICE_FACE": "3",
+                            "CHOICE_NUMBER": 3
+                        },
+                        "FACE": "Test",
+                        "MCQID": 3,
+                        "SCORE": 10.0,
+                        "STUDENT_ANSWER": {
+                            "CHOICE_FACE": "3",
+                            "CHOICE_NUMBER": 3
+                        }
+                    }
+                ],
+                "PARTICIPATION_STATUS": 1,
+                "SCORE": 32.0,
+                "SFQs": [
+                    {
+                        "ANSWER_STATUS": 1,
+                        "CORRECT_ANSWER": "4",
+                        "FACE": "what is 2 + 2",
+                        "SCORE": 12.0,
+                        "SFQID": 1,
+                        "STUDENT_ANSWER": "4"
+                    },
+                    {
+                        "ANSWER_STATUS": -2,
+                        "CORRECT_ANSWER": "3.14",
+                        "FACE": "what is first three digits of pi?",
+                        "SCORE": 0.0,
+                        "SFQID": 2,
+                        "STUDENT_ANSWER": ""
+                    }
+                ]
+            }
+        ],
+        "FOS": "Physics",
+        "GENDER": "",
+        "ID": "12367809",
+        "LAST_NAME": "Mohammadi",
+        "NAME": "Mahdi",
+        "PASSWD": "12345678"
+    },
+    {
+        "AGE": 0,
+        "EMAIL": "lk@lk.com",
+        "EXAM_LIST": [
+            {
+                "EXAM_GUC": 4,
+                "FFQs": [
+                    {
+                        "ANSWER_STATUS": -2,
+                        "FACE": "What is your opinion about this program",
+                        "FFQID": 1,
+                        "ORIGINAL_ANSWER_STATUS": -2,
+                        "STUDENT_ANSWER": "",
+                        "TEACHER_SCORE": 0.0
+                    },
+                    {
+                        "ANSWER_STATUS": -2,
+                        "FACE": "why is gmora?",
+                        "FFQID": 2,
+                        "ORIGINAL_ANSWER_STATUS": -2,
+                        "STUDENT_ANSWER": "",
+                        "TEACHER_SCORE": 0.0
+                    },
+                    {
+                        "ANSWER_STATUS": -2,
+                        "FACE": "Hi",
+                        "FFQID": 3,
+                        "ORIGINAL_ANSWER_STATUS": -2,
+                        "STUDENT_ANSWER": "",
+                        "TEACHER_SCORE": 0.0
+                    }
+                ],
+                "MCQs": [
+                    {
+                        "ANSWER_STATUS": 1,
+                        "CORRECT_ANSWER": {
+                            "CHOICE_FACE": "D",
+                            "CHOICE_NUMBER": 2
+                        },
+                        "FACE": "Test",
+                        "MCQID": 2,
+                        "SCORE": 10.0,
+                        "STUDENT_ANSWER": {
+                            "CHOICE_FACE": "D",
+                            "CHOICE_NUMBER": 2
+                        }
+                    },
+                    {
+                        "ANSWER_STATUS": -2,
+                        "CORRECT_ANSWER": {
+                            "CHOICE_FACE": "3",
+                            "CHOICE_NUMBER": 3
+                        },
+                        "FACE": "Test",
+                        "MCQID": 3,
+                        "SCORE": 0.0,
+                        "STUDENT_ANSWER": {
+                            "CHOICE_FACE": "",
+                            "CHOICE_NUMBER": -1
+                        }
+                    }
+                ],
+                "PARTICIPATION_STATUS": 1,
+                "SCORE": 10.0,
+                "SFQs": [
+                    {
+                        "ANSWER_STATUS": -2,
+                        "CORRECT_ANSWER": "4",
+                        "FACE": "what is 2 + 2",
+                        "SCORE": 0.0,
+                        "SFQID": 1,
+                        "STUDENT_ANSWER": ""
+                    },
+                    {
+                        "ANSWER_STATUS": -2,
+                        "CORRECT_ANSWER": "3.14",
+                        "FACE": "what is first three digits of pi?",
+                        "SCORE": 0.0,
+                        "SFQID": 2,
+                        "STUDENT_ANSWER": ""
+                    }
+                ]
+            }
+        ],
+        "FOS": "CS",
+        "GENDER": "",
+        "ID": "123456",
+        "LAST_NAME": "Naderinejad",
+        "NAME": "Ali",
+        "PASSWD": "12345678"
+    },
+    {
+        "AGE": 0,
+        "EMAIL": "BREAKING@BAD.com",
+        "EXAM_LIST": [
+            {
+                "EXAM_GUC": 4,
+                "FFQs": [
+                    {
+                        "ANSWER_STATUS": -2,
+                        "FACE": "What is your opinion about this program",
+                        "FFQID": 1,
+                        "ORIGINAL_ANSWER_STATUS": -2,
+                        "STUDENT_ANSWER": "",
+                        "TEACHER_SCORE": 0.0
+                    },
+                    {
+                        "ANSWER_STATUS": -2,
+                        "FACE": "why is gmora?",
+                        "FFQID": 2,
+                        "ORIGINAL_ANSWER_STATUS": -2,
+                        "STUDENT_ANSWER": "",
+                        "TEACHER_SCORE": 0.0
+                    },
+                    {
+                        "ANSWER_STATUS": 2,
+                        "FACE": "Hi",
+                        "FFQID": 3,
+                        "ORIGINAL_ANSWER_STATUS": -2,
+                        "STUDENT_ANSWER": "",
+                        "TEACHER_SCORE": 20.0
+                    }
+                ],
+                "MCQs": [
+                    {
+                        "ANSWER_STATUS": 1,
+                        "CORRECT_ANSWER": {
+                            "CHOICE_FACE": "D",
+                            "CHOICE_NUMBER": 2
+                        },
+                        "FACE": "Test",
+                        "MCQID": 2,
+                        "SCORE": 10.0,
+                        "STUDENT_ANSWER": {
+                            "CHOICE_FACE": "D",
+                            "CHOICE_NUMBER": 2
+                        }
+                    },
+                    {
+                        "ANSWER_STATUS": 1,
+                        "CORRECT_ANSWER": {
+                            "CHOICE_FACE": "3",
+                            "CHOICE_NUMBER": 3
+                        },
+                        "FACE": "Test",
+                        "MCQID": 3,
+                        "SCORE": 10.0,
+                        "STUDENT_ANSWER": {
+                            "CHOICE_FACE": "3",
+                            "CHOICE_NUMBER": 3
+                        }
+                    }
+                ],
+                "PARTICIPATION_STATUS": 1,
+                "SCORE": 40.0,
+                "SFQs": [
+                    {
+                        "ANSWER_STATUS": -2,
+                        "CORRECT_ANSWER": "4",
+                        "FACE": "what is 2 + 2",
+                        "SCORE": 0.0,
+                        "SFQID": 1,
+                        "STUDENT_ANSWER": ""
+                    },
+                    {
+                        "ANSWER_STATUS": -2,
+                        "CORRECT_ANSWER": "3.14",
+                        "FACE": "what is first three digits of pi?",
+                        "SCORE": 0.0,
+                        "SFQID": 2,
+                        "STUDENT_ANSWER": ""
+                    }
+                ]
+            }
+        ],
+        "FOS": "CHEM",
+        "GENDER": "",
+        "ID": "0909",
+        "LAST_NAME": "BAD",
+        "NAME": "BREAKING",
+        "PASSWD": "12345678"
+    }
+]

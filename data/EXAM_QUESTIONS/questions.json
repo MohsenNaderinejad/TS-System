@@ -1,0 +1,351 @@
+[
+    {
+        "EXAM_GUC": 2,
+        "FFQs": [
+            {
+                "FACE": "What Structure?",
+                "FFQID": 4
+            }
+        ],
+        "MCQs": [
+            {
+                "CHOICES": [
+                    {
+                        "CHOICE_BOOL": false,
+                        "CHOICE_FACE": "Teacher",
+                        "CHOICE_NUMBER": 1
+                    },
+                    {
+                        "CHOICE_BOOL": false,
+                        "CHOICE_FACE": "TA",
+                        "CHOICE_NUMBER": 2
+                    },
+                    {
+                        "CHOICE_BOOL": true,
+                        "CHOICE_FACE": "Student",
+                        "CHOICE_NUMBER": 3
+                    }
+                ],
+                "CORRECT_SCORE": 1,
+                "FACE": "Who Are You?",
+                "MCQID": 2,
+                "WRONG_SCORE": -1
+            },
+            {
+                "CHOICES": [
+                    {
+                        "CHOICE_BOOL": false,
+                        "CHOICE_FACE": "2",
+                        "CHOICE_NUMBER": 1
+                    },
+                    {
+                        "CHOICE_BOOL": false,
+                        "CHOICE_FACE": "3",
+                        "CHOICE_NUMBER": 2
+                    },
+                    {
+                        "CHOICE_BOOL": false,
+                        "CHOICE_FACE": "6",
+                        "CHOICE_NUMBER": 3
+                    },
+                    {
+                        "CHOICE_BOOL": false,
+                        "CHOICE_FACE": "7",
+                        "CHOICE_NUMBER": 4
+                    },
+                    {
+                        "CHOICE_BOOL": true,
+                        "CHOICE_FACE": "4",
+                        "CHOICE_NUMBER": 5
+                    }
+                ],
+                "CORRECT_SCORE": 12,
+                "FACE": "WHAT MONTH IS IT?",
+                "MCQID": 3,
+                "WRONG_SCORE": -13
+            },
+            {
+                "CHOICES": [
+                    {
+                        "CHOICE_BOOL": true,
+                        "CHOICE_FACE": "R",
+                        "CHOICE_NUMBER": 1
+                    }
+                ],
+                "CORRECT_SCORE": 1,
+                "FACE": "A",
+                "MCQID": 4,
+                "WRONG_SCORE": -2
+            }
+        ],
+        "SFQs": [
+            {
+                "ANSWER": "2025",
+                "CORRECT_SCORE": 10,
+                "FACE": "What Year is it?",
+                "SFQID": 1,
+                "WRONG_SCORE": -10
+            }
+        ]
+    },
+    {
+        "EXAM_GUC": 3,
+        "FFQs": [
+            {
+                "FACE": "Hi my name is luffy?",
+                "FFQID": 3
+            },
+            {
+                "FACE": "Can we kill you tonight?",
+                "FFQID": 4
+            }
+        ],
+        "MCQs": [
+            {
+                "CHOICES": [
+                    {
+                        "CHOICE_BOOL": false,
+                        "CHOICE_FACE": "2019",
+                        "CHOICE_NUMBER": 1
+                    },
+                    {
+                        "CHOICE_BOOL": false,
+                        "CHOICE_FACE": "2024",
+                        "CHOICE_NUMBER": 2
+                    },
+                    {
+                        "CHOICE_BOOL": false,
+                        "CHOICE_FACE": "2016",
+                        "CHOICE_NUMBER": 3
+                    },
+                    {
+                        "CHOICE_BOOL": true,
+                        "CHOICE_FACE": "2025",
+                        "CHOICE_NUMBER": 4
+                    }
+                ],
+                "CORRECT_SCORE": 20.0,
+                "FACE": "what year is it?",
+                "MCQID": 3,
+                "WRONG_SCORE": -25.0
+            },
+            {
+                "CHOICES": [
+                    {
+                        "CHOICE_BOOL": false,
+                        "CHOICE_FACE": "1000",
+                        "CHOICE_NUMBER": 1
+                    },
+                    {
+                        "CHOICE_BOOL": false,
+                        "CHOICE_FACE": "19",
+                        "CHOICE_NUMBER": 2
+                    },
+                    {
+                        "CHOICE_BOOL": false,
+                        "CHOICE_FACE": "2",
+                        "CHOICE_NUMBER": 3
+                    },
+                    {
+                        "CHOICE_BOOL": true,
+                        "CHOICE_FACE": "Python",
+                        "CHOICE_NUMBER": 4
+                    }
+                ],
+                "CORRECT_SCORE": 10.0,
+                "FACE": "This is Edited",
+                "MCQID": 4,
+                "WRONG_SCORE": -6.0
+            },
+            {
+                "CHOICES": [
+                    {
+                        "CHOICE_BOOL": false,
+                        "CHOICE_FACE": "3",
+                        "CHOICE_NUMBER": 1
+                    },
+                    {
+                        "CHOICE_BOOL": true,
+                        "CHOICE_FACE": "n",
+                        "CHOICE_NUMBER": 2
+                    }
+                ],
+                "CORRECT_SCORE": 1.0,
+                "FACE": "a",
+                "MCQID": 5,
+                "WRONG_SCORE": 0.0
+            }
+        ],
+        "SFQs": [
+            {
+                "ANSWER": "mohsen",
+                "CORRECT_SCORE": 50.0,
+                "FACE": "who am i?",
+                "SFQID": 1,
+                "WRONG_SCORE": -100.0
+            },
+            {
+                "ANSWER": "AP",
+                "CORRECT_SCORE": 10.0,
+                "FACE": "what is  this course?",
+                "SFQID": 2,
+                "WRONG_SCORE": -10.0
+            }
+        ]
+    },
+    {
+        "EXAM_GUC": 4,
+        "FFQs": [
+            {
+                "FACE": "What is your opinion about this program",
+                "FFQID": 1
+            },
+            {
+                "FACE": "why is gmora?",
+                "FFQID": 2
+            },
+            {
+                "FACE": "Hi",
+                "FFQID": 3
+            }
+        ],
+        "MCQs": [
+            {
+                "CHOICES": [
+                    {
+                        "CHOICE_BOOL": false,
+                        "CHOICE_FACE": "C",
+                        "CHOICE_NUMBER": 1
+                    },
+                    {
+                        "CHOICE_BOOL": true,
+                        "CHOICE_FACE": "D",
+                        "CHOICE_NUMBER": 2
+                    }
+                ],
+                "CORRECT_SCORE": 10.0,
+                "FACE": "Test",
+                "MCQID": 2,
+                "WRONG_SCORE": -5.0
+            },
+            {
+                "CHOICES": [
+                    {
+                        "CHOICE_BOOL": false,
+                        "CHOICE_FACE": "1",
+                        "CHOICE_NUMBER": 1
+                    },
+                    {
+                        "CHOICE_BOOL": false,
+                        "CHOICE_FACE": "2",
+                        "CHOICE_NUMBER": 2
+                    },
+                    {
+                        "CHOICE_BOOL": true,
+                        "CHOICE_FACE": "3",
+                        "CHOICE_NUMBER": 3
+                    },
+                    {
+                        "CHOICE_BOOL": false,
+                        "CHOICE_FACE": "4",
+                        "CHOICE_NUMBER": 4
+                    },
+                    {
+                        "CHOICE_BOOL": false,
+                        "CHOICE_FACE": "6",
+                        "CHOICE_NUMBER": 5
+                    }
+                ],
+                "CORRECT_SCORE": 10.0,
+                "FACE": "Test",
+                "MCQID": 3,
+                "WRONG_SCORE": -5.0
+            }
+        ],
+        "SFQs": [
+            {
+                "ANSWER": "4",
+                "CORRECT_SCORE": 12.0,
+                "FACE": "what is 2 + 2",
+                "SFQID": 1,
+                "WRONG_SCORE": -24.0
+            },
+            {
+                "ANSWER": "3.14",
+                "CORRECT_SCORE": 10.0,
+                "FACE": "what is first three digits of pi?",
+                "SFQID": 2,
+                "WRONG_SCORE": -1000.0
+            }
+        ]
+    },
+    {
+        "EXAM_GUC": 6,
+        "FFQs": [],
+        "MCQs": [
+            {
+                "CHOICES": [
+                    {
+                        "CHOICE_BOOL": false,
+                        "CHOICE_FACE": "No",
+                        "CHOICE_NUMBER": 1
+                    },
+                    {
+                        "CHOICE_BOOL": true,
+                        "CHOICE_FACE": "Yes",
+                        "CHOICE_NUMBER": 2
+                    }
+                ],
+                "CORRECT_SCORE": 10.0,
+                "FACE": "i am a cow ?",
+                "MCQID": 1,
+                "WRONG_SCORE": -8.0
+            },
+            {
+                "CHOICES": [
+                    {
+                        "CHOICE_BOOL": false,
+                        "CHOICE_FACE": "asf",
+                        "CHOICE_NUMBER": 1
+                    },
+                    {
+                        "CHOICE_BOOL": false,
+                        "CHOICE_FACE": "1",
+                        "CHOICE_NUMBER": 2
+                    },
+                    {
+                        "CHOICE_BOOL": false,
+                        "CHOICE_FACE": "8",
+                        "CHOICE_NUMBER": 3
+                    },
+                    {
+                        "CHOICE_BOOL": false,
+                        "CHOICE_FACE": "rtnnuh",
+                        "CHOICE_NUMBER": 4
+                    },
+                    {
+                        "CHOICE_BOOL": false,
+                        "CHOICE_FACE": "dgwd",
+                        "CHOICE_NUMBER": 5
+                    },
+                    {
+                        "CHOICE_BOOL": true,
+                        "CHOICE_FACE": "asocknac",
+                        "CHOICE_NUMBER": 6
+                    }
+                ],
+                "CORRECT_SCORE": 100.0,
+                "FACE": "Akl",
+                "MCQID": 2,
+                "WRONG_SCORE": -20.0
+            }
+        ],
+        "SFQs": []
+    },
+    {
+        "EXAM_GUC": 7,
+        "FFQs": [],
+        "MCQs": [],
+        "SFQs": []
+    }
+]

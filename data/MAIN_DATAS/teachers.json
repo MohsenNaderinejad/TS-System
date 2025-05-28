@@ -1,0 +1,175 @@
+[
+    {
+        "AGE": 19,
+        "COURSES": [
+            "Advanced Programming",
+            "BL"
+        ],
+        "EMAIL": "mhsn.naderinejad@gmail.com",
+        "EXAM_LIST": [
+            3,
+            4
+        ],
+        "FOS": "Nothing",
+        "GENDER": "Male",
+        "ID": "1",
+        "LAST_NAME": "Naderinejad",
+        "NAME": "Mohsen",
+        "PASSWD": "1"
+    },
+    {
+        "AGE": 22,
+        "COURSES": [
+            "Data Structures",
+            "AI"
+        ],
+        "EMAIL": "sara.johnson@email.com",
+        "EXAM_LIST": [],
+        "FOS": "Computer Science",
+        "GENDER": "Female",
+        "ID": "1526738291",
+        "LAST_NAME": "Johnson",
+        "NAME": "Sara",
+        "PASSWD": "password123"
+    },
+    {
+        "AGE": 20,
+        "COURSES": [
+            "Math",
+            "Physics"
+        ],
+        "EMAIL": "alex.smith@email.com",
+        "EXAM_LIST": [],
+        "FOS": "Engineering",
+        "GENDER": "Male",
+        "ID": "1789346250",
+        "LAST_NAME": "Smith",
+        "NAME": "Alex",
+        "PASSWD": "qwerty789"
+    },
+    {
+        "AGE": 21,
+        "COURSES": [
+            "Chemistry",
+            "Biology"
+        ],
+        "EMAIL": "linda.brown@email.com",
+        "EXAM_LIST": [],
+        "FOS": "Medicine",
+        "GENDER": "Female",
+        "ID": "1674829305",
+        "LAST_NAME": "Brown",
+        "NAME": "Linda",
+        "PASSWD": "securePass01"
+    },
+    {
+        "AGE": 23,
+        "COURSES": [
+            "Philosophy",
+            "History"
+        ],
+        "EMAIL": "michael.davis@email.com",
+        "EXAM_LIST": [],
+        "FOS": "Humanities",
+        "GENDER": "Male",
+        "ID": "1875620341",
+        "LAST_NAME": "Davis",
+        "NAME": "Michael",
+        "PASSWD": "mikePass2023"
+    },
+    {
+        "AGE": 86,
+        "COURSES": [
+            "Mathematics",
+            "Sports"
+        ],
+        "EMAIL": "john.doe@email.com",
+        "EXAM_LIST": [],
+        "FOS": "Humanities",
+        "GENDER": "Male",
+        "ID": "1090254474",
+        "LAST_NAME": "John",
+        "NAME": "Doe",
+        "PASSWD": "johnPass2023"
+    },
+    {
+        "AGE": 1000,
+        "COURSES": [
+            "TV",
+            "Cinema"
+        ],
+        "EMAIL": "abbas.kiarostami@email.com",
+        "EXAM_LIST": [],
+        "FOS": "Art & Cinema",
+        "GENDER": "Male",
+        "ID": "1276435690",
+        "LAST_NAME": "Abbas",
+        "NAME": "Kiarostami",
+        "PASSWD": "abbasPass2023"
+    },
+    {
+        "AGE": 0,
+        "COURSES": [
+            "AI"
+        ],
+        "EMAIL": "ali@ali.com",
+        "EXAM_LIST": [
+            2
+        ],
+        "FOS": "",
+        "GENDER": "",
+        "ID": "1111",
+        "LAST_NAME": "Naderi",
+        "NAME": "Mohsen",
+        "PASSWD": "1"
+    },
+    {
+        "AGE": 0,
+        "COURSES": [
+            "a",
+            "d",
+            "f"
+        ],
+        "EMAIL": "fg@fg.com",
+        "EXAM_LIST": [
+            6
+        ],
+        "FOS": "",
+        "GENDER": "",
+        "ID": "109025",
+        "LAST_NAME": "s",
+        "NAME": "ss",
+        "PASSWD": "12345678"
+    },
+    {
+        "AGE": 0,
+        "COURSES": [
+            "12",
+            "SS"
+        ],
+        "EMAIL": "lk@lk.com",
+        "EXAM_LIST": [
+            7
+        ],
+        "FOS": "",
+        "GENDER": "",
+        "ID": "15",
+        "LAST_NAME": "SS",
+        "NAME": "SS",
+        "PASSWD": "12345678"
+    },
+    {
+        "AGE": 0,
+        "COURSES": [
+            "test"
+        ],
+        "EMAIL": "test@test.com",
+        "EXAM_LIST": [],
+        "FOS": "",
+        "GENDER": "",
+        "ID": "0909",
+        "LAST_NAME": "Test",
+        "NAME": "Test",
+        "PASSWD": "12345678"
+    }
+]
