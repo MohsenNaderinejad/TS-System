@@ -1,6 +1,49 @@
 # Teacher-Student SYSTEM
 
 ## Description
+This is a Teacher-Student interactive system that signups and logins teachers and students
+
+it provides:
+- Teachers:
+	- Login
+   	- Signup
+   	- Create Exams:
+   	  	- Name
+   	  	- Subject
+   	  	- Type
+   	  	- Time
+   	  	- Published for Students
+   	- Delete Exams
+   	- View Their Exams
+   	- Add New Questions:
+   	  	- Multiple Choice Question (__No Limit__)
+   	  	- Short Answer Questions
+   	  	- Full Answer Questions
+   	- Remove Questions
+   	- Edit Info Questions
+   	- Grade Students Answers:
+   	  	- Add New Scores
+   	  	- Delete Scores
+   	- Get Report Cards of The Exam:
+   	  	- All Scores
+   	  	- Maximum Score
+   	  	- Average Score
+  		- __PRINTABLE__
+   	- Delete Account
+
+ - Students:
+   	- Login
+   	- Signup
+   	- Enroll in Exams
+   	- Participate in Exams (__Published Ones__) --> *IN LIMIED TIME*
+   	- View Their Exam Report Cards:
+   	  	- Updates After grading phase of Teacher
+   	  	- Their Full Score
+   	  	- Their Rank
+   	  	- Maximum Score
+   	  	- Average Score
+   	- __PRINT THE EXAM REPORT CARD__
+   	- Delete Account
 
 ## Notice !
 __for compiling it use the instructions below__:
