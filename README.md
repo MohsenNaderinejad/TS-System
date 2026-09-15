@@ -42,6 +42,10 @@ Run from the project root, because the JSON store and the report directories are
 ./TS-APP
 ```
 
+The `data/` directory and the four JSON files inside it must already exist. The program does not create them, and it exits with an error if they are missing. They are committed to the repository, so a fresh clone runs; a cleaned checkout does not.
+
+The `reports/` tree is different. It is built on demand: `CreateDirectory` is called with the per-teacher and per-student paths before anything is written, and `mkdir -p` fills in the intermediate levels.
+
 ---
 
 ## Running
@@ -163,6 +167,9 @@ Interface code sits in `src/` and never manipulates JSON directly; the domain cl
 ## Known limitations
 
 - **Passwords are stored in plain text** in the JSON files. This was a first-year exercise in class design, not in security, and it should not hold real accounts.
+- **`CreateDirectory` shells out through `system()`** with a path built from user-supplied names. Spaces are replaced with dashes, but shell metacharacters are not, so an exam or account name containing `;` or `&` is passed straight to the shell. `std::filesystem::create_directories` removes the problem entirely and is in the standard library this project already targets.
+- **The missing-file recovery path in `main.cpp` does not work.** When a JSON file is absent the program reports that it is creating one, then calls `.open(path, std::ios::out)` on an `std::ifstream`. That stream forces `ios::in` regardless, so opening a file that does not exist fails and the program exits. The branch has never done what its message says.
+- **Nothing creates `data/`.** `CreateDirectory` is only called on report paths, so a checkout without the committed JSON store cannot start.
 - **Single process, single user at a time.** There is no locking around the JSON files, so two copies of the program running against the same `data/` directory will lose writes.
 - **`StudentScore` manages raw `new` and `delete`.** It works, but the ownership would be clearer with a value type or a smart pointer.
 - **Path handling differs between Windows and Unix.** `backup_main/main_unix.cpp` exists because file paths were hard-coded differently for each platform. Using `std::filesystem` would remove the need for two mains.
